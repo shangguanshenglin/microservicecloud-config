@@ -1,0 +1,41 @@
+spring:
+  profiles:
+    active:
+      -dev
+---
+spring:
+  prifiles: dev
+  application:
+    name: microservicecloud-config-atguigu-dev
+---
+spring:
+  prifiles: test
+  application:
+    name: microservicecloud-config-atguigu-test
+#请保持为中文
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
